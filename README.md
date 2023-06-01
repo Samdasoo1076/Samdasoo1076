@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/JS-#F7DF1E?style=for-the-badge&logo=jss&logoColor=JS">
-<!--
-**Samdasoo1076/Samdasoo1076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,6 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdasoo1076&show_icons=true&theme=radical)
