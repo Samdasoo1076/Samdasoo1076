@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/html5-34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/이지민#1810-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<br>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamdasoo1076&count_bg=%234CDFEF&title_bg=%233F3939&icon=angellist.svg&icon_color=%23FFFFFF&title=click&edge_flat=false)](https://hits.seeyoufarm.com)
 
