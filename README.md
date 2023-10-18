@@ -2,7 +2,7 @@
 
 
 ### HELLO everyone 👋
-### My Name is ☞JiMin Lee☜
+### My Name is ☞JiMin Lee!☜
 
 ### I can do this lang a little
 <p align="center">
