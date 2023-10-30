@@ -2,7 +2,7 @@
 
 
 ### HELLO everyone 👋
-### My Name is ☞JiMin Lee!☜
+### My Name is ☞JiMin Lee!☜ and i am dummy dev 😎
 ### I can do this lang a little
 ### I don't commit on weekends and holidays
 <p align="center">
