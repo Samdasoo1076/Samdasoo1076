@@ -23,7 +23,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdasoo1076&show_icons=true&theme=radical)
 
-
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samdasoo1076&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samdasoo1076)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
