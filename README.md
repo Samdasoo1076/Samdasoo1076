@@ -1,10 +1,7 @@
 
 
 
-### HELLO everyone 👋
-### My Name is ☞JiMin Lee!☜ and i am dummy dev 😎
-### I can do this lang a little
-### I don't commit on weekends and holidays
+### 의도치않게 개발하는 사람
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=JS"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=blue"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=pink">
 <img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=red">
