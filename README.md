@@ -52,3 +52,7 @@
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
+
+<img src="https://raw.githubusercontent.com/Samdasoo1076/Samdasoo1076/output/snake.svg" alt="Snake animation" />
