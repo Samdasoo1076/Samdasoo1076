@@ -7,6 +7,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamdasoo1076&count_bg=%234CDFEF&title_bg=%233F3939&icon=angellist.svg&icon_color=%23FFFFFF&title=click&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamdasoo1076%2Fhit-counter&count_bg=%23000000&title_bg=%23FF0000&icon=dynatrace.svg&icon_color=%23000000&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
+ <img src="https://profile-counter.glitch.me/Samdasoo1076/count.svg?"  />
+ 
 ### <a>My INSTAGRAM</a>
 <a href="https://www.instagram.com/leejimin2134">![instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
@@ -55,3 +57,5 @@
 
 
 <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+
+<img src="https://raw.githubusercontent.com/Samdasoo1076/Samdasoo1076/output/snake.svg" alt="Snake animation" />
