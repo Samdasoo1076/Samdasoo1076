@@ -60,3 +60,5 @@
 <img src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
 
 <img src="https://raw.githubusercontent.com/Samdasoo1076/Samdasoo1076/output/snake.svg" alt="Snake animation" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samdasoo1076&bg_color=000000&color=e472dc&line=ff00ee&point=00ff91&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
