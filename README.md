@@ -1,10 +1,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdasoo1076&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samdasoo1076&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Samdasoo1076&theme=monokai)](https://samdasoo1076.vercel.app)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Samdasoo1076)](https://solved.ac/profile/Samdasoo1076)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Samdasoo1076&theme=monokai)](https://samdasoo1076.vercel.app)
 
 [![wakatime](https://wakatime.com/badge/user/018c13d6-7f5e-42ee-9684-0e2481fdafd6.svg)](https://wakatime.com/@018c13d6-7f5e-42ee-9684-0e2481fdafd6)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSamdasoo1076&count_bg=%234CDFEF&title_bg=%233F3939&icon=angellist.svg&icon_color=%23FFFFFF&title=click&edge_flat=false)](https://hits.seeyoufarm.com)
