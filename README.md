@@ -10,7 +10,7 @@
 
  <img src="https://profile-counter.glitch.me/Samdasoo1076/count.svg?"  />
  
-### <a>My MEDIA</a>
+### <a>My MEDIA </a>
 <a href="https://www.instagram.com/leejimin2134">![instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ## My Languages & Frameworks & Skills 📋:
