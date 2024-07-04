@@ -20,7 +20,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           curl -o wakatime-stats.json -X GET "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${WAKATIME_API_KEY}"
-          echo -e "## WakaTime Stats\n\n![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=${{ secrets.WAKATIME_USERNAME }})" > STATS.md
+          echo -e "## WakaTime Stats\n\n![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=${{ secrets.WAKATIME_USERNAME }})" > README.md
 
       - name: Commit and Push
         run: |
