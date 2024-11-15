@@ -14,7 +14,7 @@
 <!--END_SECTION:waka-->
 
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/Samdasoo1076">
 <img
   src="https://render.gitanimals.org/farms/Samdasoo1076"
   width="600"
