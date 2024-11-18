@@ -21,11 +21,6 @@
   height="300"
 />
 </a>
-
-<a href="https://Samdasoo1076.github.io/Git_gif">
-  <img src="https://Samdasoo1076.github.io/Git_gif/preview.png" width="500" />
-</a>
- 
 ### <a>My MEDIA</a>
 <a href="https://www.instagram.com/leejimin2134">![instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
