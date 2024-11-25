@@ -21,6 +21,7 @@
   height="300"
 />
 </a>  
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{YourUserName})  
   
 ### <a>My MEDIA</a>
 <a href="https://www.instagram.com/leejimin2134">![instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)</a>
