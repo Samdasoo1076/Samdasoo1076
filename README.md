@@ -59,7 +59,7 @@
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)  
 ![googlecloud](https://img.shields.io/badge/googlecloudplatform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![docker](https://img.shields.io/badge/googlecloudplatform-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 
 #### 💻 - Server
