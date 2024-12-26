@@ -37,12 +37,14 @@
 ![Nodejs](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![chartdotjs](https://img.shields.io/badge/-chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-####  💻- Backend:
+####  💻 - Backend:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 💻 - Server Side Web:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### 💻 - Database:
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -54,14 +56,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![googlecloud](https://img.shields.io/badge/googlecloudplatform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+#### 💻 - Server
 
 ### DevOps ⚙:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Others:
+### Operrating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![googlecloud](https://img.shields.io/badge/googlecloudplatform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 ### IDEs and Tools 🛠:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
