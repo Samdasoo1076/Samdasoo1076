@@ -44,9 +44,9 @@
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💻 - Server Side Web:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-1071D3?style=for-the-badge&logo=openjdk&logoColor=white)
-![mustache](https://img.shields.io/badge/neutralinojs-#89901?style=for-the-badge&logo=openjdk&logoColor=white)
+![mustache](https://img.shields.io/badge/neutralinojs-89901?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### 💻 - Database:
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
