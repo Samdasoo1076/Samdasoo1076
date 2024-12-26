@@ -35,7 +35,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![react](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![nextdotjs](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![nextdotjs](https://img.shields.io/badge/-nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ####  💻 - Backend:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
