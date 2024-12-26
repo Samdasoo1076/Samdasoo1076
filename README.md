@@ -45,7 +45,7 @@
 
 ### 💻 - Server Side Web:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-1071D3?style=for-the-badge&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-1071D3?style=for-the-badge&logo=jsp&logoColor=white)
 ![mustache](https://img.shields.io/badge/neutralinojs-89901?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### 💻 - Database:
