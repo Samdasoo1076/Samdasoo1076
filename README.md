@@ -33,9 +33,9 @@
 #### 💻 - Frontend:
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3)
-![Nodejs](https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![chartdotjs](https://img.shields.io/badge/-chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![react](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![nextdotjs](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ####  💻 - Backend:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,7 +46,7 @@
 ### 💻 - Server Side Web:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-1071D3?style=for-the-badge&logo=jsp&logoColor=white)
-![mustache](https://img.shields.io/badge/neutralinojs-89901?style=for-the-badge&logo=openjdk&logoColor=white)
+![mustache](https://img.shields.io/badge/neutralinojs-89901?style=for-the-badge&logo=mustache&logoColor=white)
 
 #### 💻 - Database:
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -57,10 +57,13 @@
 #### 💻 - Hosting Services and Web Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![googlecloud](https://img.shields.io/badge/googlecloudplatform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)  
+![googlecloud](https://img.shields.io/badge/googlecloudplatform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![docker](https://img.shields.io/badge/googlecloudplatform-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+
 
 #### 💻 - Server
+![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
 ### DevOps ⚙:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -69,6 +72,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
+### library
+![chartdotjs](https://img.shields.io/badge/chartdotjs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### IDEs and Tools 🛠:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
