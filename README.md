@@ -50,7 +50,7 @@
 #### 💻 - Database:
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MsSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mssql&logoColor=white)
+![MsSQL](https://img.shields.io/badge/MsSQL-005C84?style=for-the-badge&logo=mssql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 #### 💻 - Hosting Services and Web Tools:
