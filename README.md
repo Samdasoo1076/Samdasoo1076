@@ -14,13 +14,14 @@
 <!--END_SECTION:waka-->
 
 
-<a href="https://github.com/Samdasoo1076">
+<!--<a href="https://github.com/Samdasoo1076">
 <img
   src="https://render.gitanimals.org/farms/Samdasoo1076"
   width="600"
   height="300"
 />
-</a>  
+</a> 
+-->
 
   
 ### <a>My MEDIA</a>
